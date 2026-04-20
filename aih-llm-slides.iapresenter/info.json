@@ -1,0 +1,11 @@
+{
+  "creatorIdentifier" : "net.ia.presenter",
+  "net.ia.presenter" : {
+    "localFileIdentifier" : "90AA28E9-F478-4DF9-A61C-CDFE252D1A19",
+    "preset" : "Default",
+    "template" : "copenhagen"
+  },
+  "transient" : false,
+  "type" : "net.daringfireball.markdown",
+  "version" : 2
+}
